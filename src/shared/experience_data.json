@@ -1,0 +1,45 @@
+{
+	"title": "Experience",
+	"subtitle": "Work, Internship and Volunteership",
+	"description":
+		"I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+	"header_image_path": "experience.svg",
+	"sections": [
+		{
+			"title": "Work",
+			"experiences": [
+				{
+					"title": "LARAVEL EXPERIENCE",
+					"company": "EINNOVENTION LAHORE",
+					"company_url": "https://einnovention.us/",
+					"logo_path": "einnovention.png",
+					"duration": "May 2018 - Oct 2019",
+					"location": "LAHORE, PUNJAB",
+					"description":
+						"I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+					"color": "#9b1578"
+				}
+			]
+		},
+		{
+			"title": "Internships",
+			"experiences": [
+				{
+					"title": "LARAVEL EXPERIENCE",
+					"company": "EINNOVENTION LAHORE",
+					"company_url": "https://einnovention.us/",
+					"logo_path": "einnovention.png",
+					"duration": "May 2018 - Oct 2019",
+					"location": "LAHORE, PUNJAB",
+					"description":
+						"I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+					"color": "#9b1578"
+				}
+			]
+		},
+		{
+			"title": "Volunteerships",
+			"experiences": []
+		}
+	]
+}

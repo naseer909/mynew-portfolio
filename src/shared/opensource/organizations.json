@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "login": "openai",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14957082?v=4",
+      "__typename": "Organization"
+    },   
+       {
+      "login": "google",
+      "avatarUrl": "https://avatars1.githubusercontent.com/u/1342004?v=4",
+      "__typename": "Organization"
+    },
+       {
+      "login": "firecampapp",
+      "avatarUrl": "https://avatars3.githubusercontent.com/u/45025286?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}
